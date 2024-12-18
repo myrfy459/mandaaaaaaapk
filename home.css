@@ -40,7 +40,7 @@ button.Profil {
     display: flex;
     justify-content: space-around;
     padding: 50px;
-    background: url('background/Gambar WhatsApp 2024-12-17 pukul 19.21.44_a510a6b4..png') no-repeat center center; 
+    background: url('blur-hospital_1203-7972.png') no-repeat center center; 
     background-size: cover;
     height: calc(100vh - 100px);
 }
